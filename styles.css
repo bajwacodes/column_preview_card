@@ -141,10 +141,6 @@ img{
         border-radius: 0.5rem 0 0 0.5rem;
     }
 
-    .suv-box{
-        /* grid-area: two; */
-    }
-
     .luxury-box{
         /* grid-area: three; */
         border-radius: 0 0.5rem 0.5rem 0;
@@ -165,8 +161,8 @@ img{
     }
 
     img{
-        width: 25%;
-        height: 16%;
+        width: 65px;
+        height: 45px;
     }
 
 }
